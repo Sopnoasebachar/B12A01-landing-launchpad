@@ -74,6 +74,25 @@ ul{
   margin:0 auto;
   width:900px;
 }
+.Action-Section{
+  margin-top:92px;
+  /* background-color:#D6DDED; */
+  padding:50px 151px;
+  display:flex;
+  gap:220px;
+  justify-content: center;
+  align-items: center;
+}
+.left-side{
+  width:517px;
+}
+.Action-Section img{
+  border-radius: 48px;
+}
+.action-subtitle{
+  color:#8987A1;
+  font-size:24px;
+}
 .feedback-section{
   margin-top:92px;
   background-color:#D6DDED;
@@ -100,6 +119,9 @@ ul{
   justify-content:flex-start;
   align-items: center;
   gap:6px;
+}
+.review-img{
+  border-radius: 50%;
 }
 .name-date{
   display:flex;
