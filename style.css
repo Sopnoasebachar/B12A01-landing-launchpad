@@ -60,7 +60,7 @@ ul{
   background-image:url(Assets/Hero-bg.png);
   background-size:cover;
   /* width:1440px; */
-  height:500px;
+  /* height:500px; */
   /* background-position: center; */
   padding:50px 150px;
   
@@ -115,7 +115,7 @@ ul{
   margin:92px auto;
   background-color: #D6DDED;
   /* width:1140px; */
-  height:632px;
+  /* height:632px; */
   gap:115px;
   padding:50px 150px;
 }
