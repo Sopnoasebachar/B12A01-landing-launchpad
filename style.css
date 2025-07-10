@@ -74,8 +74,11 @@ ul{
   margin:0 auto;
   width:900px;
 }
+.main{
+  background-color:#D6DDED;
+}
 .Action-Section{
-  margin-top:92px;
+  /* margin-top:92px; */
   /* background-color:#D6DDED; */
   padding:50px 151px;
   display:flex;
@@ -93,9 +96,37 @@ ul{
   color:#8987A1;
   font-size:24px;
 }
+.user-section{
+  background-color:rgba(78, 71, 255,0.1);
+  padding:50px 80px;
+  width:1140px;
+  height:306px;
+  margin:0 auto;
+  border-radius:24px;
+}
+.user-section h1{
+  text-align: center;
+}
+.user-text{
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  gap:167px;
+}
+.user-title{
+  display:flex;
+  flex-direction: column;
+  align-items: center;
+}
+.first-row{
+  font-size:80px;
+}
+.second-row{
+  color:#8987A1;
+}
 .feedback-section{
   margin-top:92px;
-  background-color:#D6DDED;
+  /* background-color:#D6DDED; */
   padding:50px 151px;
 }
 .feedback-section .center{
@@ -130,12 +161,32 @@ ul{
 .color{
   color:#8987A1;
 }
+.focus{
+  display:flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color:#FFFFFF;
+  width:1140px;
+  margin:0 auto;
+  padding:50px 80px;
+  border-radius:14px;
+}
+.focus img{
+  margin-top:20px;
+  width:840px;
+  height:364px;
+  border-radius: 48px;
+}
+.dis{
+  margin-top:-10px;
+}
 .Touch-Section{
   display:flex;
   justify-content: center;
   align-items: center;
   margin:92px auto;
-  background-color: #D6DDED;
+  /* background-color: #D6DDED; */
   /* width:1140px; */
   /* height:632px; */
   gap:115px;
