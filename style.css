@@ -206,6 +206,7 @@ ul{
 #message{
   padding:20px 32px;
   border:none;
+  border-radius:10px;
 }
 .form .btn{
   padding:19px 101px;
