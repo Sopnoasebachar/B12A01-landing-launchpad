@@ -45,6 +45,7 @@ ul{
 }
 .btn:hover{
   background-color:#8987A1;
+   transform:scaleX(1.5);
 }
 .bold{
   font-size:65px;
