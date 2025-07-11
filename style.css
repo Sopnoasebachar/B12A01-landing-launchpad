@@ -99,9 +99,9 @@ ul{
 }
 .user-section{
   background-color:rgba(78, 71, 255,0.1);
-  padding:50px 80px 0px 80px;
+  padding:50px 40px 0px 40px;
   width:1140px;
-  height:306px;
+  height:250px;
   margin:0 auto;
   border-radius:24px;
 }
@@ -170,7 +170,7 @@ ul{
   background-color:#FFFFFF;
   width:1140px;
   margin:0 auto;
-  padding:50px 70px;
+  padding:50px 40px;
   border-radius:14px;
 }
 .focus img{
